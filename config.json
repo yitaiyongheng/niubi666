@@ -8,10 +8,10 @@
     "patchBlocks":  100,
     "bulkSize":     100,
     "settings": {
-        "symbol": "ETC",
-        "name": "Ethereum Classic",
+        "symbol": "niubi",
+        "name": "Ethereum niubi",
         "title": "Ethereum Classic Block Explorer",
-        "author": "Elaine, Cody, Hackmod, Bakon",
+        "author": "大忽悠, 2忽悠",
         "contact": "mailto:ethereumclassicanthony@gmail.com",
         "about": "This is an open source Blockchain Explorer.",
         "rss": "https://ethereumclassic.org",
